@@ -1,2 +1,2 @@
 # adventofcode
-Some solutions my https://adventofcode.com/2021 tasks
+Some solutions for https://adventofcode.com/2021 tasks
